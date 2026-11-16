@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/build",
+  "command": "/usr/bin/c++ -DASSET_DIR=\\\"/home/victor/Documents/code/C++/segundoSemestre/Trab_1/\\\" -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1 -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1/include -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/JogoInvestigacao.dir/main.cpp.o -c /home/victor/Documents/code/C++/segundoSemestre/Trab_1/main.cpp",
+  "file": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/main.cpp",
+  "output": "CMakeFiles/JogoInvestigacao.dir/main.cpp.o"
+},
+{
+  "directory": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/build",
+  "command": "/usr/bin/cc -DASSET_DIR=\\\"/home/victor/Documents/code/C++/segundoSemestre/Trab_1/\\\" -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1 -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1/include -O3 -DNDEBUG -Wall -Wextra -Wpedantic -o CMakeFiles/JogoInvestigacao.dir/src/glad.c.o -c /home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/glad.c",
+  "file": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/glad.c",
+  "output": "CMakeFiles/JogoInvestigacao.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/build",
+  "command": "/usr/bin/c++ -DASSET_DIR=\\\"/home/victor/Documents/code/C++/segundoSemestre/Trab_1/\\\" -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1 -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1/include -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/JogoInvestigacao.dir/src/graphics/Camera.cpp.o -c /home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/graphics/Camera.cpp",
+  "file": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/graphics/Camera.cpp",
+  "output": "CMakeFiles/JogoInvestigacao.dir/src/graphics/Camera.cpp.o"
+},
+{
+  "directory": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/build",
+  "command": "/usr/bin/c++ -DASSET_DIR=\\\"/home/victor/Documents/code/C++/segundoSemestre/Trab_1/\\\" -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1 -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1/include -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/JogoInvestigacao.dir/src/graphics/PostProcess.cpp.o -c /home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/graphics/PostProcess.cpp",
+  "file": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/graphics/PostProcess.cpp",
+  "output": "CMakeFiles/JogoInvestigacao.dir/src/graphics/PostProcess.cpp.o"
+},
+{
+  "directory": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/build",
+  "command": "/usr/bin/c++ -DASSET_DIR=\\\"/home/victor/Documents/code/C++/segundoSemestre/Trab_1/\\\" -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1 -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1/include -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/JogoInvestigacao.dir/src/graphics/Shader.cpp.o -c /home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/graphics/Shader.cpp",
+  "file": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/graphics/Shader.cpp",
+  "output": "CMakeFiles/JogoInvestigacao.dir/src/graphics/Shader.cpp.o"
+},
+{
+  "directory": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/build",
+  "command": "/usr/bin/c++ -DASSET_DIR=\\\"/home/victor/Documents/code/C++/segundoSemestre/Trab_1/\\\" -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1 -I/home/victor/Documents/code/C++/segundoSemestre/Trab_1/include -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/JogoInvestigacao.dir/src/world/Scene.cpp.o -c /home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/world/Scene.cpp",
+  "file": "/home/victor/Documents/code/C++/segundoSemestre/Trab_1/src/world/Scene.cpp",
+  "output": "CMakeFiles/JogoInvestigacao.dir/src/world/Scene.cpp.o"
+}
+]

@@ -1,0 +1,10 @@
+# Pistas do Escritório
+carta|Carta rasgada|Bilhete de demissao assinado pelo patrao, enderecado a governanta Clara.
+relogio|Relogio parado|O relogio de parede parou exatamente as 22h40 durante a queda.
+copo|Copo quebrado|Taca de vinho estilhacada no chao com residuos de po branco no fundo.
+
+# Pistas do Corredor
+pegada|Pegada no tapete|Pegada pequena de sapato social feminino indo em direcao a cozinha.
+
+# Pistas da Cozinha
+frasco|Frasco vazio|Vidro pequeno escondido atras dos temperos com rotulo de sonifero forte.

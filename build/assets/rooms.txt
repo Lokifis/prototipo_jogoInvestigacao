@@ -1,0 +1,27 @@
+# === ESCRITORIO ===
+escritorio|Decoration|-|Chao|0.0 -0.1 0.0|8.0 0.2 8.0|0.55
+escritorio|Decoration|-|Parede dos fundos|0.0 1.5 -4.1|8.4 3.0 0.2|0.70
+escritorio|Decoration|-|Parede lateral|-4.1 1.5 0.0|0.2 3.0 8.0|0.65
+escritorio|Decoration|-|Mesa|0.0 0.4 -1.0|2.4 0.8 1.2|0.45
+escritorio|Decoration|-|Armario|-3.0 0.9 -3.0|1.0 1.8 1.0|0.35
+escritorio|Decoration|-|Cadeira|1.5 0.3 0.8|0.6 0.6 0.6|0.50
+escritorio|Door|corredor|Porta para o Corredor|3.9 1.1 -1.5|0.15 2.2 1.0|0.30
+escritorio|Clue|carta|Carta rasgada|-0.6 0.825 -1.0|0.5 0.05 0.35|1.00
+escritorio|Clue|relogio|Relogio parado|0.0 2.0 -3.95|0.7 0.7 0.1|0.95
+escritorio|Clue|copo|Copo quebrado|0.7 0.95 -1.0|0.2 0.3 0.2|0.90
+
+# === CORREDOR ===
+corredor|Decoration|-|Chao|0.0 -0.1 0.0|4.0 0.2 10.0|0.50
+corredor|Decoration|-|Parede esquerda|-2.1 1.5 0.0|0.2 3.0 10.0|0.68
+corredor|Decoration|-|Parede dos fundos|0.0 1.5 -5.1|4.4 3.0 0.2|0.72
+corredor|Door|escritorio|Voltar ao Escritorio|-1.95 1.1 1.5|0.15 2.2 1.0|0.30
+corredor|Door|cozinha|Porta da Cozinha|0.0 1.1 -4.95|1.0 2.2 0.15|0.30
+corredor|Clue|pegada|Pegada no tapete|0.2 0.01 -1.5|0.4 0.02 0.7|0.20
+
+# === COZINHA ===
+cozinha|Decoration|-|Chao|0.0 -0.1 0.0|6.0 0.2 6.0|0.60
+cozinha|Decoration|-|Parede dos fundos|0.0 1.5 -3.1|6.4 3.0 0.2|0.75
+cozinha|Decoration|-|Parede lateral|-3.1 1.5 0.0|0.2 3.0 6.0|0.70
+cozinha|Decoration|-|Bancada|-1.5 0.45 -2.4|2.5 0.9 0.8|0.45
+cozinha|Door|corredor|Voltar ao Corredor|2.9 1.1 0.0|0.15 2.2 1.0|0.30
+cozinha|Clue|frasco|Frasco vazio|-1.2 1.0 -2.4|0.18 0.22 0.18|0.95
