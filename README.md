@@ -37,3 +37,4 @@ inspirada em *Return of the Obra Dinn*.
 │   └── data/           # clues.txt, rooms.txt (copiados para o diretório de build)
 └── docs/
     └── UML.md
+# prototipo_jogoInvestigacao
